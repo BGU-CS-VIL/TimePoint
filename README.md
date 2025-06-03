@@ -3,6 +3,8 @@ TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and De
 
 [Ron Shapira Weber](https://ronshapiraweber.github.io/), Shahar Ben Ishay, Andrey Lavrinenko, [Shahaf E. Finder](https://shahaffind.github.io/), and [Oren Freifeld](https://www.cs.bgu.ac.il/~orenfr/)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2505.23475-b31b1b.svg?style=flat)](https://arxiv.org/abs/2505.23475)
+
 :construction: The code will be uploaded soon :construction:
 
 ## License
