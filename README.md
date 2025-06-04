@@ -72,6 +72,14 @@ X_i, keypoints_i = data_dict["signals"], data_dict["keypoints"]
 
 ```
 
+# TODO List
+- [x] Pretrained models
+- [x] SynthAlign dataset
+- [x] Example Usage notebook
+- [ ] Requirements file
+- [ ] Training code
+- [ ] Hugging Face support
+
 ## License
 This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
 
