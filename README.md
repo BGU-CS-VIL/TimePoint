@@ -5,6 +5,7 @@ TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and De
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.23475-b31b1b.svg?style=flat)](https://arxiv.org/abs/2505.23475)
 
+![Introduction Figure](image.png)
 
 ## How to use
 ### TimePoint
